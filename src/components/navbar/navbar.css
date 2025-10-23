@@ -1,0 +1,10 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: lightblue;
+}
+.nav-links a {
+  margin: 0 10px;
+  text-decoration: none;
+}
